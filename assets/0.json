@@ -1,0 +1,19 @@
+{
+    "name": "Solar Ring",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "9PXL4X1JRtcejG8NybJdaVxXDW7TwiMF7nvVqhq5vwXS",
+          "share": 100
+        }
+      ]
+    }
+  }
